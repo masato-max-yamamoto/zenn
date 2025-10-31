@@ -212,7 +212,7 @@ get_premium_data <- function(flag_output) {
     post_to_slack(message, slack_url)
 }
 
-main(TRUE, 20250101, 20251031)
+# main(TRUE, 20250101, 20251031)
 
 ```
 
